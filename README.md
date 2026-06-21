@@ -68,7 +68,7 @@ Nairobi-Metropolitan-Rental-Listings-EDA/
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](EDA_Dashboard.PNG)
+![Dashboard Preview](Dashboard.PNG)
 
 ---
 
