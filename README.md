@@ -68,18 +68,18 @@ Nairobi-Metropolitan-Rental-Listings-EDA/
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](EDA Dashboard.PNG)
+![Dashboard Preview](EDA_Dashboard.PNG)
 
 ---
 
 ## Key Findings
 1. **Apartments dominate the sample** — 194 out of 265 listings (73%) were apartments, making them the most commonly listed property type in the sample.
 
-2. **Furnished listings show higher asking rent** — across all property types, furnished listings were priced higher than unfurnished ones. The gap was most notable in houses where furnished units averaged Ksh 704,500 compared to Ksh 332,085 for unfurnished — a 112% difference.
+2. **Furnished listings show higher asking rent** — across all property types, furnished listings were priced higher than unfurnished ones. The gap was most notable in houses where furnished units averaged Ksh 704,500 compared to Ksh 332,085 for unfurnished.
 
-3. **Gym access is associated with higher rent** — listings with gym facilities showed higher average asking rent across all property types. For apartments, gym listings averaged Ksh 144,786 compared to Ksh 101,971 without — a 42% difference.
+3. **Gym access is associated with higher rent** — listings with gym facilities showed higher average asking rent across all property types. For apartments, gym listings averaged Ksh 144,786 compared to Ksh 101,971 without.
 
-4. **Swimming pools are associated with higher asking rent** — properties with pools showed higher average rent across all property types. Among houses, pool listings averaged Ksh 474,500 compared to Ksh 312,104 without — a 52% difference.
+4. **Swimming pools are associated with higher asking rent** — properties with pools showed higher average rent across all property types. Among houses, pool listings averaged Ksh 474,500 compared to Ksh 312,104 without.
 
 5. **Rent generally increases with bedroom count** — average asking rent rises consistently from Ksh 78,736 for 1-bedroom units to Ksh 418,805 for 5-bedroom properties. Notably, 6-bedroom properties averaged Ksh 368,000 — slightly lower than 5-bedroom — however this is based on only 4 listings and should be treated with caution.
 
