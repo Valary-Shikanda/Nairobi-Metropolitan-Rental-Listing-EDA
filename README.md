@@ -64,6 +64,12 @@ Nairobi-Metropolitan-Rental-Listings-EDA/
 │
 └── README.md
 ```
+## Files Included
+| File | Description |
+|---|---|
+| Nairobi_Metropolitan_Rental_Listing_Analysis.xlsx | Main Excel file containing all sheets — Raw Data, Clean Data, Analysis, Dashboard and Insights |
+| EDA Dashboard.PNG | Screenshot of the interactive dashboard |
+| README.md | Project documentation |
 
 ---
 
@@ -125,7 +131,7 @@ Nairobi-Metropolitan-Rental-Listings-EDA/
 Freelance Data Analyst | IT Support Specialist
 📍 Nairobi, Kenya
 🔗 [LinkedIn](https://www.linkedin.com/in/valary-shikanda-aa90162ba)
-🐙 [GitHub](https://github.com/valary254)
+🐙 [GitHub](https://github.com/Valary-Shikanda)
 
 ---
 
